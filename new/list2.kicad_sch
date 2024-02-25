@@ -1041,6 +1041,10 @@
     (uuid f77288d8-3806-4e16-a217-b8da3bd82a71)
   )
 
+  (label "Remote Control" (at 198.12 179.07 0) (fields_autoplaced)
+    (effects (font (size 6 6) (thickness 1.2) bold) (justify left bottom))
+    (uuid 7b89a257-2780-4741-8adc-7fada68435d6)
+  )
   (label "54x42x15mm" (at 64.77 123.19 0) (fields_autoplaced)
     (effects (font (size 2 2)) (justify left bottom))
     (uuid 9e784c13-cdff-4b72-b340-46618898e110)
